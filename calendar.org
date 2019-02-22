@@ -1,0 +1,28 @@
+* TODO Read Documentations                                   :documentations:
+** TODO Org Mode Documentation | 
+** TODO [[/home/steffan/documentations/emacs.pdf][Emacs Documentation]] | 1/581 Pages
+** TODO Html Documentation
+** TODO Python Documentation
+** TODO PHP Documentation
+** TODO C Documentation
+** TODO C++ Documentation
+** TODO WebAssembly Documentation
+** TODO Javascript Documentation
+** TODO NodeJS Documentation
+* TODO Read Books
+** TODO [[/home/steffan/Downloads/Mastering.pdf][Mastering Emacs]]
+*** DONE Read 50 Pages
+* Classes
+** C Classes
+*** TODO [[http://cs.brown.edu/courses/cs053/current/lectures.htm][CS053 RELOADED]] | 1 / 38 Lectures
+* Dev.to Scraper / Linkedin Submitter
+** TODO Create Functions
+** TODO Take H1-P Into list
+* Emacs
+** TODO Fix Super Key
+** TODO Start Emacs on boot
+** TODO Startup Screen
+*** TODO Org todo
+*** TODO Recent Files
+*** TODO Better M-X syntax autocomplete
+** TODO Setup Remote Emacs?
